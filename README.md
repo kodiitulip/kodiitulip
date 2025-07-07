@@ -64,7 +64,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 

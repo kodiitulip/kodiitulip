@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust<br>🎲 Fun fact: I Love Minecraft and do GameDev in my free time</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust and NixOS<br>🎲 Fun fact: I Love Minecraft and do GameDev in my free time</p>
 
 ###
 

@@ -10,10 +10,8 @@
 
 ###
 
-✨ Creating bugs since 2022
-
-📚 I'm currently learning Rust and NixOS
-
+✨ Creating bugs since 2022  
+📚 I'm currently learning Rust and NixOS  
 🎲 Fun fact: I love playing Minecraft/VintageStory and I'm always open to learning new tech
 
 ###

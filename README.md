@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Kodie and I'm a WebDev, from Brasil!</p>
+<p align="left">My name is Kodie and I'm a Web/Game Dev, from Brasil!</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Rust and NixOS<br>🎲 Fun fact: I Love Minecraft and do GameDev in my free time</p>
+✨ Creating bugs since 2022
+
+📚 I'm currently learning Rust and NixOS
+
+🎲 Fun fact: I love playing Minecraft/VintageStory and I'm always open to learning new tech
 
 ###
 
@@ -38,7 +42,7 @@
 
 ###
 
-<h2 align="left">Tech I use/like</h2>
+## Tech I use/like
 
 ###
 

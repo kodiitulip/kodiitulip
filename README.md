@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="56" alt="nixos logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="60" alt="nixos logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img width="12" />
@@ -44,7 +44,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kodiitulip&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kodiitulip&radius=16&theme=dracula&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
 

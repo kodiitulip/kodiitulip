@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="60" alt="nixos logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="56" alt="nixos logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="60" alt="neovim logo"  />
   <img width="12" />
